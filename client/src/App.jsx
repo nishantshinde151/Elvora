@@ -1,9 +1,12 @@
 import React from 'react';
-import DemoPage from './pages/DemoPage';
+import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
-    <DemoPage />
+    <div className='bg-amber-100 w-full h-20'>
+      <Navbar />
+    </div>
+
   );
 }
 
