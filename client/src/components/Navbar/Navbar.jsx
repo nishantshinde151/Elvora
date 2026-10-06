@@ -6,7 +6,7 @@ import Action from './Top Navbar/Action'
 
 const Navbar = () => {
   return (
-    <div className='flex justify-between items-center p-4'>
+    <div className='bg-[#FCF0DA] flex justify-between items-center p-4'>
         <Logo />
         <Search />
         <Action />

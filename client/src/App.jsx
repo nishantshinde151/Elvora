@@ -1,10 +1,12 @@
 import React from 'react';
 import Navbar from './components/Navbar/Navbar';
+import Listing_Header from './components/Product Listing/Listing_Header';
 
 function App() {
   return (
-    <div className='bg-amber-100 w-full h-20'>
+    <div className='w-full min-h-screen bg-[#FFF9F2]'>
       <Navbar />
+      <Listing_Header />
     </div>
 
   );
