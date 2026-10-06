@@ -6,10 +6,10 @@ import Action from './Top Navbar/Action'
 
 const Navbar = () => {
   return (
-    <div className='bg-[#FCF0DA] flex justify-between items-center p-4'>
-        <Logo />
-        <Search />
-        <Action />
+    <div className='bg-[#FFF9F2] flex justify-between items-center p-4'>
+      <Logo />
+      <Search />
+      <Action />
     </div>
   )
 }
