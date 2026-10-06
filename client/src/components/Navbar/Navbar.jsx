@@ -1,7 +1,7 @@
 import React from 'react'
-import Logo from './Top Navbar/logo'
-import Search from './Top Navbar/Search'
-import Action from './Top Navbar/Action'
+import Logo from './TopNavbar/logo'
+import Search from './TopNavbar/Search'
+import Action from './TopNavbar/Action'
 
 
 const Navbar = () => {

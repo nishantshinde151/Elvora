@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './components/Navbar/Navbar';
+import Navbar from './components/navbar/Navbar';
 import Listing_Header from './components/Product Listing/Listing_Header';
 
 function App() {
