@@ -6,11 +6,13 @@ import Action from './Top Navbar/Action'
 
 const Navbar = () => {
   return (
-    <div className='flex justify-between items-center p-4'>
+    <div className='h-20 flex justify-between items-center p-4 border-b border-gray-300 '>
         <Logo />
         <Search />
         <Action />
     </div>
+
+
   )
 }
 
